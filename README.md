@@ -1,1 +1,43 @@
 # Netflix-Data-Analysis
+Happy to share my Python EDA project "Netflix Data Analysis". The Purpose of this project is to analyze the Netflix dataset using Python libraries like Pandas, Matplotlib and Seaborn.
+
+The project will involves analyzing user behavior and preferences, such as popular genres, and Movies & TV Shows Ratings. The project will also examine content trends, such as total count of Movies & TV Shows, the number of titles released each year, the most popular directors, and content availability by region.
+
+### Steps involve to complete this project:
+1. Import and Install the Packages
+2. Loading the Netflix Dataset using Pandas
+3. Data Preparation and Cleaning using Pandas
+4. Data Visualization using Matplotlib and Seaborn
+5. Asking and Answering Questions
+
+### Insights:
+1. There are 5372 Movies and 2398 TV Shows present in the dataset.
+2. We also find that there were 1312 Movies and 697 TV Shows released in year 2020.
+3. We find that there were 71 titles of all TV Shows released in India only.
+4. We also find the top 10 Directors who gave the highest number of TV Shows and Movies to Netflix.
+
+### Project Highlights:
+
+🔍 **1. Rating Distribution Analysis:**
+ I started by unravelling the intricate web of Netflix content ratings, providing an in-depth analysis of the audience's cinematic preferences. This glimpse into the rating distribution paints a vivid picture of what captivates Netflix viewers. 🎥🍿
+
+🎬 **2. Top Directors Revealed:**
+I analyzed the data to discover the brilliant minds behind some of Netflix's most iconic productions. 🎬🎥
+
+🌟 **3. Spotlight on Leading Actors:**
+Here, I spotlighted the top 5 actors who've shone the brightest, capturing our hearts and imaginations. 🌟🎭
+
+📺 **4. Evolution of Content Types:**
+  Netflix's content landscape has evolved over the years. I meticulously tracked this evolution, offering insights into the changing landscape of content types. It's akin to witnessing the seasons change but in the realm of TV shows and movies! 🌞🌧️📺
+
+🌎 **5. Top Content-Producing Nations:**
+  Netflix's global reach is undeniable, but which countries lead the content production charge? I dissected the data to identify the top 5 nations contributing significantly to Netflix's diverse content library. 🌎🌍🌏
+
+🚀 This project was a testament to the incredible power of Pandas for data manipulation, cleansing, and exploratory analysis. Techniques like grouping, handling missing data, and conditional filtering were the keys to unlocking these insights, much like solving intricate puzzles with precision and finesse! 🔍🧩
+
+
+This project not only strengthened my grasp of Python data analysis but also illuminated the capabilities of Pandas in unravelling hidden narratives within data. 
+
+For more please refer project.
+
+By providing the Netflix team with insights into user behavior and content trends, the project aims to help Netflix optimize its content strategy, drive engagement, and increase revenue.
